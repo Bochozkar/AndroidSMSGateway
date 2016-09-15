@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "266677207915",
+    "firebase_url": "https://mysmsgateway-faf4e.firebaseio.com",
+    "project_id": "mysmsgateway-faf4e",
+    "storage_bucket": "mysmsgateway-faf4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266677207915:android:3a423f7bf261ab29",
+        "android_client_info": {
+          "package_name": "com.cclouds.mysmsgateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266677207915-kdh1nnk9apjs3t2qpjps87fnsurhjouc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC39o3ic9ENn04Ow96Dp3IYMnQt2aINgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
